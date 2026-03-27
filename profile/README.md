@@ -6,5 +6,5 @@ Gamecart is a store management platform built for game servers — handle produc
 
 ## Links
 
-Website: https://gamecart.gg
+Website: https://gamecart.gg<br />
 API & docs: https://docs.gamecart.gg
